@@ -1,4 +1,4 @@
-
+![logo](https://github.com/onigaandreea/onigaandreea/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Oniga Andreea</h1>
 <h3 align="center">A student passionate about programming</h3>
 
